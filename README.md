@@ -73,9 +73,10 @@ streamlit run app.py
 └── env/              # Môi trường ảo Python
 ```
 
-## 🤝 Đóng góp
+## 🤝 Demo
 
-Mọi đóng góp đều được hoan nghênh! Vui lòng tạo issue hoặc pull request để đóng góp.
+![image](https://github.com/user-attachments/assets/939410fb-7716-4d1e-a18e-6b9eac54f6c3)
+
 
 ## 📝 License
 
