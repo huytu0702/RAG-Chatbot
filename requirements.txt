@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+torch
+together 
